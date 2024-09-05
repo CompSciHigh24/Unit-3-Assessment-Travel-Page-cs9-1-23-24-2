@@ -1,0 +1,48 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+.all{
+
+}
+.double{
+  font-family: 'Nosifer', sans-serif;
+  text-align:center;
+  color:#000000 ;
+}
+h4{
+  font-family: 'Nabla', system-ui;
+  text-align:center; 
+}
+.header{
+  color:#338C66;
+  font-family: 'Unbounded', sans-serif;
+  background-color:black ;
+}
+.About{
+  color:#9F6868;
+  font-family: 'Shrikhand', serif;
+  background-color:antiquewhite;
+}
+section{
+  display:flex;
+  justify-content:space-between;
+  flex-wrap:wrap;
+}
+.hi5{
+  font-family: 'Protest Guerrilla', sans-serif;
+}
+.hi6{
+  font-family: 'Abril Fatface', serif;
+}
+.hi1{
+  font-family: 'Pacifico', cursive;
+}
+.hi2{
+  font-family: 'Bebas Neue', sans-serif;
+}
+
+
+
+
+
